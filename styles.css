@@ -27,3 +27,13 @@ body {
   border-radius: 5px;
   border: 1px solid #000000;
 }
+
+.container button {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #577eff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+}
